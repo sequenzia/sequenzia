@@ -1,1 +1,25 @@
-- 👋 Hi, I’m @sequenzia
+# Stephen Sequenzia - Data Professional
+I'm a **Data Scientist, Machine Learning Engineer, Data Engineer** & **Python Developer** who continuously applies an innovative mindset to provide an ongoing stream of new ideas, using the latest data science technologies. I have an inquisitive nature and thrive on data experimentation, exploration and discovery. 
+
+**Tools & Technologies:** Python, TensorFlow, Keras, Neural Networks, Deep Learning, Machine Learning Pipelines, Python Data Structures, Regression, Classification, Algorithmic Trading, Financial Modeling
+
+**Algorithms & Models:** CNNs, RNNs, Transformers, Attention Mechanisms, Temporal Conv Networks, Autoencoders, Bayesian Neural Networks, ARIMA, Structural Time Series
+
+## Projects
+
+[***Photon: Machine Learning Framework***](https://github.com/sequenzia/photon)<br>
+A machine learning framework that extends the functionality of other frameworks such as TensorFlow & Keras. Photon ML is built to apply neural network and ensemble modeling techniques for deep learning financial algorithms. The framework supports the entire lifecycle of a machine learning project including data preparation, model development, training, monitoring, evaluation and deployment.
+
+[***Dyson: Modeling Research & Development***](https://github.com/sequenzia/dyson)<br>
+A set of custom libraries to handle the unique characteristics of acquisition, preparation and storage of financial market data. These libraries include data connectors (WebSockets/RESTful APIs) to access the data, detect anomalies in hundreds of millions of data points, then cleanse and pre-process to provide high-integrity data modeling. Also included is a set of tools for domain specific feature engineering and labeling of financial market data
+
+[***Maxwell: Machine Learning Preprocessing & Pipelines***](https://github.com/sequenzia/maxwell)<br>
+A machine learning framework that extends the functionality of other frameworks such as TensorFlow & Keras. Photon ML is built to apply neural network and ensemble modeling techniques for deep learning financial algorithms. The framework supports the entire lifecycle of a machine learning project including data preparation, model development, training, monitoring, evaluation and deployment.
+
+### Connect with me
+[sequenzia.com](https://sequenzia.com/)
+<br>
+[appliedtheta.io](https://appliedtheta.io/)
+<br>
+[linkedin.com/in/sequenzia](https://www.linkedin.com/in/sequenzia) <br>
+[stephen@sequenzia.com](mailto:stephen@sequenzia.com)
