@@ -16,7 +16,10 @@ An evolving collection of data models and algorithms used to model financial mar
 [***Maxwell: Machine Learning Preprocessing & Pipelines***](https://github.com/sequenzia/maxwell)<br>
 A set of custom libraries to handle the unique characteristics of acquisition, preparation and storage of financial market data. These libraries include data connectors (WebSockets/RESTful APIs) to access the data, detect anomalies in hundreds of millions of data points, then cleanse and pre-process to provide high-integrity data modeling. Also included is a set of tools for domain specific feature engineering and labeling of financial market data.
 
-### Connect with me
+[***Coding Challenges***](https://github.com/sequenzia/challenges)<br>
+A repo of some of the coding challenges I have participated in.
+
+## Connect with me
 [sequenzia.com](https://sequenzia.com/)
 <br>
 [appliedtheta.io](https://appliedtheta.io/)
