@@ -21,5 +21,9 @@ A set of custom libraries to handle the unique characteristics of acquisition, p
 <br>
 [appliedtheta.io](https://appliedtheta.io/)
 <br>
-[linkedin.com/in/sequenzia](https://www.linkedin.com/in/sequenzia) <br>
+[linkedin.com/in/sequenzia](https://www.linkedin.com/in/sequenzia)
+<br>
 [stephen@sequenzia.com](mailto:stephen@sequenzia.com)
+<br>
+<br>
+[My Amateur Astronomy IG](https://www.instagram.com/sequenzia.sky/)
