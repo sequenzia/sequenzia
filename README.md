@@ -1,4 +1,4 @@
-# Stephen Sequenzia: Senior Machine Learning Engineer
+# Stephen Sequenzia: Machine Learning Engineer
 I'm a **Machine Learning Engineer, Data Engineer**, **Python Software Engineer** and **Data Scientist**, who continuously applies an innovative mindset to provide an ongoing stream of new ideas, using the latest data science technologies. I have an inquisitive nature and thrive on data experimentation, exploration and discovery. 
 
 #### **Technologies & Specializations** 
