@@ -1,5 +1,5 @@
-# Stephen Sequenzia: Data Professional
-I'm a **Data Scientist, Machine Learning Engineer, Data Engineer** & **Python Developer** who continuously applies an innovative mindset to provide an ongoing stream of new ideas, using the latest data science technologies. I have an inquisitive nature and thrive on data experimentation, exploration and discovery. 
+# Stephen Sequenzia: Senior Machine Learning Engineer
+I'm a **Machine Learning Engineer, Data Engineer**, **Python Software Engineer** and **Data Scientist**, who continuously applies an innovative mindset to provide an ongoing stream of new ideas, using the latest data science technologies. I have an inquisitive nature and thrive on data experimentation, exploration and discovery. 
 
 #### **Technologies & Specializations** 
 Python, TensorFlow, Keras, Neural Networks, Deep Learning, Machine Learning Pipelines, Python Data Structures, Regression, Classification, Algorithmic Trading, Financial Modeling
