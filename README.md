@@ -1,8 +1,8 @@
-# Stephen Sequenzia: ML/Data Engineer
-I'm a **Machine Learning Engineer, Data Engineer**, **Python Software Engineer** and **Data Scientist**, who continuously applies an innovative mindset to provide an ongoing stream of new ideas, using the latest data science technologies. I have an inquisitive nature and thrive on data experimentation, exploration and discovery. 
+# Stephen Sequenzia: Machine Learning Engineer
+I'm a skilled staff-level **Machine Learning Engineer** with a strong foundation in **Software Engineering**, **Data Engineering**, and **MLOps**. With hands-on experience building end-to-end machine learning pipelines, I specialize in designing scalable data architectures, deploying robust ML models, and automating workflows using MLOps best practices. Passionate about creating impactful AI solutions, I leverage my expertise in Python, cloud services, and DevOps tools to bridge the gap between data science experimentation and production deployment. My goal is to deliver reliable and efficient machine learning systems that drive business value.
 
 #### **Technologies & Specializations** 
-Python, TensorFlow, Keras, Neural Networks, Deep Learning, Machine Learning Pipelines, Python Data Structures, Regression, Classification, Algorithmic Trading, Financial Modeling
+Python, PyTorch, TensorFlow, Keras, Neural Networks, Deep Learning, Machine Learning Pipelines, Python Data Structures, Regression, Classification, Algorithmic Trading, Financial Modeling
 
 #### **Algorithms & Models**
 CNNs, RNNs, Transformers, Attention Mechanisms, Temporal Conv Networks, Autoencoders, Bayesian Neural Networks, ARIMA, Structural Time Series
