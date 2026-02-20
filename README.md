@@ -1,2 +1,2 @@
-# Stephen Sequenzia: Machine Learning Engineer
+# Stephen Sequenzia: AI/ML Engineer & Architect 
 I'm a staff AI/ML Engineer, Architect & Technical Lead with a strong foundation in **Software Engineering**, **Data Engineering**, **MLOps**, and **Agentic AI**. With hands-on experience building end-to-end machine learning pipelines, I specialize in designing scalable data architectures, deploying robust ML models, and automating workflows using MLOps best practices. Passionate about creating impactful AI solutions, I leverage my expertise in Python, cloud services, and DevOps tools to bridge the gap between data science experimentation and production deployment. My goal is to deliver reliable and efficient machine learning systems that drive business value.
